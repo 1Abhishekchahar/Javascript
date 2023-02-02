@@ -1,0 +1,11 @@
+<script>
+
+    var cart = '';
+
+    console.log(cart);
+
+    cart = "laptop";
+
+    console.log(cart);
+
+</script>
