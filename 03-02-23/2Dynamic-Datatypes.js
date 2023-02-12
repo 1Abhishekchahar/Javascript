@@ -1,0 +1,13 @@
+<script>
+
+var fullName = "akash";
+
+fullName = "suriya";
+
+console.log(typeof fullName);
+
+fullName = 45;
+
+console.log(typeof fullName);
+
+</script>

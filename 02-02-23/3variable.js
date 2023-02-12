@@ -1,15 +1,14 @@
-<script>
+<><script>
     var fullName="abhishek";
     alert(fullName);
     var address="Meerut";
     alert(address);
-</script>
-<script>
-    var cart = '';
+</script><script>
+        var cart = '';
 
-alert(cart);
+        alert(cart);
 
-cart = "laptop";
+        cart = "laptop";
 
-alert(cart);
-</script>
+        alert(cart);
+    </script></>
